@@ -1,1 +1,1 @@
-# transfer-files
+A shitty python script, which uses local ipv4 to transfer files between two pcs that are connected to the same router.
